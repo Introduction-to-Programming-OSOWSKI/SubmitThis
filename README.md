@@ -1,17 +1,21 @@
-# **Assignment Title**  
+# **Submit This**  
 
 ## **Assignment Description**  
-
+Follow along with the video Accepting and Submitting Assignments to submit this assignment. There is no need to write any code for this assignment, this is just a practice for turning assignments in.
 
 ## **Examples**  
->
+N/A
 
 ## **Limitations**  
+N/A
 
 ## **Hints**  
+git add .  
+git commit -m "Name of assignment try #"  
+git push
 
 ## **Concepts**  
-
+N/A
 
 ---
 
